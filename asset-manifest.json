@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://code-cs.github.io/csb-ipf73/static/js/main.a2469041.chunk.js",
+    "main.js.map": "https://code-cs.github.io/csb-ipf73/static/js/main.a2469041.chunk.js.map",
+    "runtime-main.js": "https://code-cs.github.io/csb-ipf73/static/js/runtime-main.fc5dc903.js",
+    "runtime-main.js.map": "https://code-cs.github.io/csb-ipf73/static/js/runtime-main.fc5dc903.js.map",
+    "static/js/2.fc726699.chunk.js": "https://code-cs.github.io/csb-ipf73/static/js/2.fc726699.chunk.js",
+    "static/js/2.fc726699.chunk.js.map": "https://code-cs.github.io/csb-ipf73/static/js/2.fc726699.chunk.js.map",
+    "index.html": "https://code-cs.github.io/csb-ipf73/index.html",
+    "precache-manifest.5df3965b6436663b4212ac7baffe8295.js": "https://code-cs.github.io/csb-ipf73/precache-manifest.5df3965b6436663b4212ac7baffe8295.js",
+    "service-worker.js": "https://code-cs.github.io/csb-ipf73/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc5dc903.js",
+    "static/js/2.fc726699.chunk.js",
+    "static/js/main.a2469041.chunk.js"
+  ]
+}
